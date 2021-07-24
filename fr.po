@@ -5138,9 +5138,9 @@ msgid ""
 "performance, it is {{GOLD}}heavily recommended{{DEFAULT}} to keep this "
 "number below the number of cores your CPU has (but you do you)."
 msgstr ""
-"C'est le nombre de couches souterraines . Pour de meilleures performances, "
-"il est {{GOLD}}enviément recommandé{{DEFAULT}} de maintenir ce nombre en "
-"dessous du nombre de coeurs de votre Processeur a (mais vous le faites vous)."
+"C'est le nombre de couches souterraines. Pour de meilleures performances, "
+"il est {{GOLD}}fortement recommandé{{DEFAULT}} de maintenir ce nombre en "
+"dessous du nombre de coeurs que votre Processeur a (mais vous pouvez le faire)."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\ScenarioScreen.cs:779
 msgid "Underground Architecture"
@@ -11840,7 +11840,7 @@ msgid ""
 "ground."
 msgstr ""
 "La surface est marquée comme étant extrêmement dangereuse. Elle est "
-"probablement envahie par des monstres et / ou un débuff mortel pourrait être "
+"probablement envahie par des monstres et/ou un débuff mortel pourrait être "
 "appliquée à toute personne vivant au-dessus du sol."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:924
