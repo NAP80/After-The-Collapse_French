@@ -95,8 +95,8 @@ msgstr "{0} est un {1} de sexe {2}."
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\BodyAgent.cs:1263
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\BodyAgentData.cs:460
 #, csharp-format
-msgid " {0} has a maximum lifespan of {1} days."
-msgstr " {0} a une espérance de vie totale de {1}."
+msgid "{0} has a maximum lifespan of {1} days."
+msgstr "{0} a une espérance de vie totale de {1}."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\BodyAgent.cs:1267
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\BodyAgentData.cs:464
@@ -134,7 +134,7 @@ msgstr "Santé: {0}%"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\BodyAgent.cs:1599
 #, csharp-format
 msgid "{0} has mutated into a(n) {1}!"
-msgstr "{0} à muté en un(e) {1} !"
+msgstr "{0} à muté en un(e) {1}!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\BodyAgentData.cs:494
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\WallData.cs:150
@@ -242,7 +242,7 @@ msgstr "{0} est blessé: {1}"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\BodyAgentTraits.cs:699
 #, csharp-format
 msgid "{0} is now {1}"
-msgstr "{0} est {1}"
+msgstr "{0} est maintenant {1}"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\BodyAgentTraits.cs:696
 #, csharp-format
@@ -338,7 +338,7 @@ msgstr "Génère des créatures"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\ClutterData.cs:492
 msgid "Grow eggs into friendly creatures"
-msgstr "Faire pousser des œufs en créatures amicales"
+msgstr "Faire pousser des oeufs en créatures amicales"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\ClutterData.cs:497
 msgid "Automated turret"
@@ -499,7 +499,7 @@ msgstr ""
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\TravelGroup.cs:244
 msgid "We're fighting hostile creatures!"
-msgstr "Nous combattons des éléments hostiles!"
+msgstr "Nous combattons des créatures hostiles!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\TravelGroup.cs:248
 #, csharp-format
@@ -519,7 +519,7 @@ msgstr "La faction {0} est maintenant hostile!"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\TravelGroup.cs:300
 #, csharp-format
 msgid "We're done exploring the location (space left {0}kg)"
-msgstr "Nous avons fini d'explorer l'emplacement (cargo libre {0}kg)"
+msgstr "Nous avons fini d'explorer l'emplacement (espace libre {0}kg)"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\TravelGroup.cs:304
 #, csharp-format
@@ -607,7 +607,7 @@ msgstr "({0} exactement)"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\Zones\RoomZone.cs:59
 msgid "Forbidden Content:"
-msgstr "Contenu interdit :"
+msgstr "Contenu interdit:"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\ai\NeedBasedAI.cs:341
 #, csharp-format
@@ -682,7 +682,7 @@ msgstr "{0}% Plein"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\FactoryComp.cs:757
 #, csharp-format
 msgid "{0} was produced by {1}."
-msgstr "{1} à produit: {0}."
+msgstr "{1} a produit: {0}."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\GarageComp.cs:347
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\GarageComp.cs:391
@@ -781,7 +781,7 @@ msgstr "J'ai {0} animal(aux) de compagnie!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\MoodHandler.cs:116
 msgid "Decent accomodations"
-msgstr "Logement Décent"
+msgstr "Logement décent"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\MoodHandler.cs:128
 msgid "Not enough beds available"
@@ -840,7 +840,7 @@ msgstr "Un(e) {0} est mort de cause naturelle"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\ReproductionComp.cs:367
 #, csharp-format
 msgid "{0} just had {1} children!"
-msgstr "{0} viens d'avoir {1} enfants !"
+msgstr "{0} viens d'avoir {1} enfants!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\ResearchComp.cs:191
 #, csharp-format
@@ -874,7 +874,7 @@ msgstr "{0} a contracté {1} de {2}."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\SocialComp.cs:561
 msgid "Two of your survivors are having a brawl!"
-msgstr "Deux de vos survivants se bagarrent !"
+msgstr "Deux de vos survivants se bagarrent!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\SocialComp.cs:561
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\SocialComp.cs:565
@@ -889,7 +889,7 @@ msgstr "Deux de vos prisonniers se bagarrent !"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\SocialComp.cs:569
 msgid "Two people are having a brawl!"
-msgstr "Deux personnes se bagarrent !"
+msgstr "Deux personnes se bagarrent!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\components\SocialComp.cs:608
 #, csharp-format
@@ -1004,10 +1004,10 @@ msgid ""
 "from each other. Additionally, purified water is marked as a rare item, "
 "making it much less likely to appear in loot or in a trader's inventory."
 msgstr ""
-"Vous jouez avec le réglage de difficulté Rare Water.\n"
+"Vous jouez avec le réglage de difficulté Eau Rare.\n"
 "\n"
 "La principale différence entre ce mode et un jeu normal est que les puits "
-"d'eau ne peuvent être placés à côté d'une source d'eau et doivent être au "
+"d'eau ne peuvent être placés qu'à côté d'une source d'eau et doivent être au "
 "moins espacés de 8 tuiles. En outre, l'eau purifiée est marquée comme un "
 "objet rare, ce qui la rend beaucoup moins susceptible d'apparaître dans un "
 "butin ou dans l'inventaire d'un commerçant."
@@ -1028,7 +1028,7 @@ msgid ""
 msgstr ""
 "Désormais, les créatures comme les scorpions géants, les crabes et les "
 "araignées ont une chance de donner des oeufs lorsqu'ils meurent. Vous ne "
-"pouvez stocker ces œufs que dans le nouveau bâtiment de stockage débloqué "
+"pouvez stocker ces oeufs que dans le nouveau bâtiment de stockage débloqué "
 "par cette technologie. Vous pouvez aussi construire un enclos pour faire "
 "grandir ces oeufs en des versions amicales de ces créatures."
 
@@ -1048,8 +1048,8 @@ msgstr ""
 "Des abominations mutantes sont apparues dans la ville.\n"
 "\n"
 "Ces créatures sont hostiles à toute autre forme de vie et prendront "
-"rapidement contrôle de la carte si elle ne sont pas stoppées. Elles peuvent "
-"aussi attacker périodiquement votre base. Il est cependant possible de "
+"rapidement le contrôle de la carte si elles ne sont pas stoppées. Elles peuvent "
+"aussi attaquer périodiquement votre base. Il est cependant possible de "
 "détruire leur nid, arrêtant leur expansion, du moins si vous avez accès à "
 "une puissance de feu suffisante.\n"
 
@@ -1076,8 +1076,8 @@ msgstr ""
 "Vous pouvez maintenant réparer et prendre le contrôle des centres de "
 "production!\n"
 "\n"
-"Des locations comme les fermes, les mines, les scieries, etc., peuvent être "
-"réparées et utilisées comme centres de production. Pour ce faire, vous "
+"Des locations comme les fermes, les mines, les scieries, etc, peuvent être "
+"réparées et utilisées comme centre de production. Pour ce faire, vous "
 "devrez d'abord y envoyer une expédition pour éliminer toute menace "
 "potentielle.\n"
 "\n"
@@ -1156,7 +1156,7 @@ msgstr ""
 "grande quantité de temps et de ressources.\n"
 "\n"
 "Une fois construits, les robots agissent comme vos survivant, sauf qu'ils ne "
-"se fatiguent jamais et n'ont point besoin de nourriture. Ils ont cependant "
+"se fatiguent jamais et n'ont pas besoin de nourriture. Ils ont cependant "
 "besoin de recharger leurs batteries à un Chargeur pour Robots de temps en "
 "temps."
 
@@ -1175,7 +1175,7 @@ msgid ""
 "\n"
 "Our sincere apologies for this issue, this is sadly out of our hands."
 msgstr ""
-"Vous semblez avoir une version spécifique de Windows qui manque certains "
+"Vous semblez avoir une version spécifique de Windows où manquent certains "
 "composants multimédias. Cela empêche le jeu de jouer du son ou de la "
 "musique. Heureusement, c'est très facile à réparer!\n"
 "\n"
@@ -1231,7 +1231,7 @@ msgstr ""
 "représentent des destinations possibles. Cliquer dessus affiche un résumé "
 "sur le côté gauche de l'écran. Ce que vous pouvez trouver en explorant de "
 "tels endroits varie: l'hôpital aura des médicaments, les bases militaires "
-"ont des armes, les fermes ont de la nourriture ... Notez que plus une "
+"ont des armes, les fermes ont de la nourriture... Notez que plus une "
 "destination est éloignée, plus il faudra de temps à votre groupe pour "
 "l'atteindre et plus elle pourrait être dangereuse."
 
@@ -1296,12 +1296,12 @@ msgid ""
 "They also provide a passive fix to your people' recreational needs and can "
 "be further improved with appropriate furniture (sofas, card tables...)."
 msgstr ""
-"Vous venez de construire les fondations d'un salon! \n"
+"Vous venez de construire les fondations d'un salon!\n"
 "\n"
 "Les salons offrent à vos survivants un endroit où ils peuvent faire une "
 "pause et discuter. Ils fournissent également une solution passive aux "
 "besoins récréatifs des survivants et peuvent être encore améliorés avec des "
-"meubles appropriés (canapés, tables de cartes...)."
+"meubles appropriés (canapés, tables de cartes, etc)."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\GameTips.cs:363
 msgid "Private Bedroom"
@@ -5140,7 +5140,7 @@ msgid ""
 msgstr ""
 "C'est le nombre de couches souterraines . Pour de meilleures performances, "
 "il est {{GOLD}}enviément recommandé{{DEFAULT}} de maintenir ce nombre en "
-"dessous du nombre de cœurs de votre Processeur a (mais vous le faites vous)."
+"dessous du nombre de coeurs de votre Processeur a (mais vous le faites vous)."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\ScenarioScreen.cs:779
 msgid "Underground Architecture"
@@ -5506,7 +5506,7 @@ msgstr ""
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\SettingsMenu.cs:353
 msgid "Select Language"
-msgstr "Choisir langue"
+msgstr "Choisir langage"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\SettingsMenu.cs:386
 msgid "User Interface Scale"
@@ -10045,7 +10045,7 @@ msgstr ""
 "Les survivants ayant cette compétence peuvent:\n"
 "- Prendre soin des animaux\n"
 "- S'occuper de la boucherie\n"
-"- S'occuper des œufs"
+"- S'occuper des oeufs"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:436
 msgid "Survivors with this skill can heal and cure other survivors."
@@ -11557,7 +11557,7 @@ msgstr "Peut payer des rançons"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:865
 msgid "Max Manpower"
-msgstr "Main-d'œuvre max"
+msgstr "Main-d'oeuvre max"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:866
 msgid "Reinforce Rate"
@@ -11728,7 +11728,7 @@ msgid ""
 msgstr ""
 "C'est le nombre de couches souterraines en dessous de la ville. Pour de "
 "meilleures performances, il est fortement recommandé de maintenir ce nombre "
-"en dessous du nombre de cœurs que votre processeur a."
+"en dessous du nombre de coeurs que votre processeur a."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:684
 msgid "Generate"
