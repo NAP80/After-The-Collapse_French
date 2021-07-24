@@ -11872,7 +11872,7 @@ msgid ""
 "settling nearby."
 msgstr ""
 "Vous ne pouvez pas vous installer sur ce type de carte (comme le jeu est "
-"toujours dans EA et pas tous les générateurs de cartes ont été codés), mais "
+"toujours en EA et que tous les générateurs de cartes n'ont pas été codés), mais "
 "rien ne vous empêche de vous installer à proximité."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:945
