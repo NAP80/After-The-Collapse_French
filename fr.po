@@ -5495,8 +5495,7 @@ msgstr "Montrez un résumé après avoir déverrouillé une nouvelle technologie
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\SettingsMenu.cs:328
 msgid "Show expedition result popup"
-msgstr "Afficher popup technologique"
-
+msgstr "Afficher popup éxpedition"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\SettingsMenu.cs:330
 msgid ""
 "Show a summary of what was found during expedition when your settlers come "
