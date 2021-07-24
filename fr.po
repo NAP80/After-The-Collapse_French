@@ -52,7 +52,7 @@ msgstr "{0} est tombé inconscient!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\BodyAgent.cs:1208
 msgid "I am idle."
-msgstr "Ise suis au repos."
+msgstr "Je suis au repos."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\BodyAgent.cs:1208
 msgid "I am dead."
