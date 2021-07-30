@@ -2914,7 +2914,7 @@ msgid ""
 "charcol{{WHITE}}, set the job to {{GOLD}} Keep total stock at 20{{WHITE}}\n"
 msgstr ""
 "Il est temps de construire 2 {{GREEN}}Forges{{WHITE}}. Les forges sont des "
-"structures très utiles qui convertiront {{GOLD}}pierres{{WHITE}} et {{GOLD}}}"
+"structures très utiles qui convertiront {{GOLD}}pierres{{WHITE}} et {{GOLD}}"
 "bois{{WHITE}} en {{GOLD}}metal{{WHITE}} et {{GOLD}}charbon de bois{{WHITE}}, "
 "qui sont tous deux utilisés dans de nombreuses recettes et bâtiments.\n"
 "\n"
@@ -3568,7 +3568,7 @@ msgstr ""
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Tutorial.cs:1781
 msgid "Well, time to do what I do best, then, break stuff!"
-msgstr "Temps pour moi de faire ce que je fais le mieux, alors, démolition!"
+msgstr "Il est temps pour moi de faire ce que je fais le mieux, alors, démolition!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Tutorial.cs:1782
 msgid "Sounds good, we can use the bunker to store our resources."
@@ -3814,7 +3814,7 @@ msgstr ""
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Tutorial.cs:1875
 msgid "We'll improvise for a while. And {{GREEN}}Carpentry{{WHITE}}?"
-msgstr "On va improviser le moment venu. Et {{GREEN}}}Menuiserie{{WHITE}}?"
+msgstr "On va improviser le moment venu. Et {{GREEN}}Menuiserie{{WHITE}}?"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Tutorial.cs:1876
 msgid ""
@@ -3834,12 +3834,12 @@ msgstr "Ok, Jenny, commençons par {{GREEN}}Menuiserie{{WHITE}}."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Tutorial.cs:1879
 msgid "Sure thing!"
-msgstr "Ca roule!"
+msgstr "Ça roule!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Tutorial.cs:1886
 msgid "It should take a few days. You might as well get busy."
 msgstr ""
-"Ca devrait prendre quelques jours. Vous devriez passer à autre chose pendant "
+"Ça devrait prendre quelques jours. Vous devriez passer à autre chose pendant "
 "ce temps."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Tutorial.cs:1887
@@ -4049,7 +4049,7 @@ msgstr "Contre information."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Tutorial.cs:1952
 msgid "Fine by me!"
-msgstr "Ca me va!"
+msgstr "Ça me va!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Tutorial.cs:1959
 msgid "You weren't kidding..."
@@ -7124,7 +7124,7 @@ msgstr "Accepter améliorera notre relation ({0}). "
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\EscapeeComms.cs:91
 #, csharp-format
 msgid "We're willing to pay you ${0} for your help. "
-msgstr "Nous sommes en mesure de vous offrir ${0} pour votre aide. "
+msgstr "Nous sommes en mesure de vous offrir ${0} pour votre aide."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\EscapeeComms.cs:99
 msgid ""
@@ -7140,11 +7140,11 @@ msgstr "Un refus nuira à votre réputation avec nous ({0})."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\EscapeeComms.cs:120
 msgid "Sure, we won't interfere"
-msgstr "Ok, nous n'interviendrons pas"
+msgstr "Ok, nous n'interviendrons pas."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\EscapeeComms.cs:129
 msgid "Sorry, they are under our protection"
-msgstr "Désolé, ils sont sous notre protection"
+msgstr "Désolé, ils sont sous notre protection."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\FactionScreen.cs:75
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:120
@@ -7407,7 +7407,7 @@ msgstr "Interactions:"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\FactionScreen.cs:949
 msgid "Interactions (Males):"
-msgstr "Interactions (Males) :"
+msgstr "Interactions (Males):"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\FactionScreen.cs:954
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\FactionScreen.cs:1000
@@ -7418,7 +7418,7 @@ msgstr "Rien"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\FactionScreen.cs:995
 msgid "Interactions (Females):"
-msgstr "Interactions (Femelles) :"
+msgstr "Interactions (Femelles):"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\FactionScreen.cs:1038
 msgid "Apply to new arrivals automatically"
