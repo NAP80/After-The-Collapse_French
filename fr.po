@@ -11213,7 +11213,7 @@ msgstr ""
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenario.cs:552
 msgid "Remove monster ambushes"
-msgstr "Supprimer les embuscades monstre"
+msgstr "Supprimer les embuscades de créatures hostiles"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenario.cs:554
 msgid "If checked, buildings on the starting map will not contain hostiles."
@@ -11222,11 +11222,11 @@ msgstr ""
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenario.cs:562
 msgid "Remove underground monsters"
-msgstr "Supprimer les monstres souterrains"
+msgstr "Supprimer les créatures souterraines"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenario.cs:564
 msgid "If checked, the underworld will not contain hostile critters."
-msgstr "Si coché, les sous-terrains ne contiendront pas de bestioles hostiles."
+msgstr "Si coché, les sous-terrains ne contiendront pas de créatures hostiles."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenario.cs:573
 msgid "Food consumption"
@@ -11364,11 +11364,11 @@ msgid ""
 msgstr ""
 "Il y eu un erreur en chargeant le fichier {0}. Le jeu continuera à charger, "
 "mais il ne sera pas forcement stable. Ce fichier appartient au mod \"{2}\", "
-"créé par \"{3}\". Désactivez ce mod et / ou demandez à l'auteur mod pour "
+"créé par \"{3}\". Désactivez ce mod et/ou demandez à l'auteur du mod pour "
 "résoudre ce problème! Anarkis Gaming ne peut pas fournir de support pour les "
 "jeux modifiés.\n"
 "\n"
-"Voici quelques informations qui peuvent aider l'auteur mod:\n"
+"Voici quelques informations qui peuvent aider l'auteur du mod:\n"
 "\n"
 "{1}\n"
 "\n"
@@ -11436,7 +11436,7 @@ msgstr "Vous devez être désespéré... Pas moyen!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:205
 msgid "You are weak, you must die!"
-msgstr "Vous ètes faibles! Vous devez mourir!"
+msgstr "Vous êtes faibles! Vous devez mourir!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:206
 msgid "We had enough bloodshed for now."
@@ -11444,11 +11444,11 @@ msgstr "Nous avons versé assez de sang pour l'instant."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:207
 msgid "Give us the following or suffer the consequences!"
-msgstr "Donnez-nous ce qui suit ou subissez les cons\"quences!"
+msgstr "Donnez-nous ce qui suit ou subissez les conséquences!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:208
 msgid "We have no interest in making peace with you"
-msgstr "Nous n'avons pas l'intention de faire la paix avec vous pour l'instant"
+msgstr "Nous n'avons pas l'intention de faire la paix avec vous pour l'instant."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:209
 msgid "We are willing to pay a ransom for the people you captured."
@@ -11457,12 +11457,12 @@ msgstr ""
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:210
 msgid "A ransom? Ha! You can eat them for all I care!"
-msgstr "Une rançon? Ha, ha ha! Non!"
+msgstr "Une rançon ? Ha, ha ha! Non!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:366
 #, csharp-format
 msgid "The truce with the {0} faction has ended"
-msgstr "La trêve avec la faction {0} est terminée"
+msgstr "La trêve avec la faction {0} est terminée."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:505
 msgid "Alert"
@@ -11477,7 +11477,7 @@ msgstr ""
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:512
 #, csharp-format
 msgid "{0} claimed a location: {1}"
-msgstr "La faction {0} à pris un(e) {1}."
+msgstr "La faction {0} a pris un(e) {1}."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:521
 #, csharp-format
@@ -11525,7 +11525,7 @@ msgstr "[Ils nous ont déclaré la guerre]"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:711
 #, csharp-format
 msgid "The {0} faction declared war on {1}"
-msgstr "La faction {0} a déclaré la guerre la faction {1}"
+msgstr "La faction {0} a déclaré la guerre à la faction {1}"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:849
 msgid "Template"
@@ -11574,7 +11574,7 @@ msgstr "Réactivité"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLSaveSystem.cs:271
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLSaveSystem.cs:363
 msgid "Save already in progress... Processing."
-msgstr "Sauvegarde déjà en cours ... Traitement en cours."
+msgstr "Sauvegarde déjà en cours... Traitement en cours."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLSaveSystem.cs:344
 msgid "Save completed!"
@@ -11586,15 +11586,15 @@ msgstr "Sauvegarde échouée!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLTile.cs:103
 msgid "Tile"
-msgstr "Tile"
+msgstr "Tuile"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLWorld.cs:639
 msgid "Autosave in progress..."
-msgstr "Sauvegarde auto en cours ..."
+msgstr "Sauvegarde auto en cours..."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLWorld.cs:641
 msgid "Quicksave in progress..."
-msgstr "Sauvegarde rapide en cours ..."
+msgstr "Sauvegarde rapide en cours..."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLWorld.cs:669
 msgid "Autosave Failed"
@@ -11752,7 +11752,7 @@ msgid ""
 "maps might be very taxing on your system."
 msgstr ""
 "Modifiez la taille de l'aire jouable (où vous construisez votre base). Les "
-"cartes plus grandes peuvent taxer sur votre système."
+"cartes plus grandes peuvent ralentir votre système."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:752
 msgid "Map Filters"
@@ -11840,7 +11840,7 @@ msgid ""
 "ground."
 msgstr ""
 "La surface est marquée comme étant extrêmement dangereuse. Elle est "
-"probablement envahie par des monstres et/ou un débuff mortel pourrait être "
+"probablement envahie par des créatures hostiles et/ou un débuff mortel pourrait être "
 "appliquée à toute personne vivant au-dessus du sol."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:924
