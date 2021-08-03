@@ -519,7 +519,7 @@ msgstr "La faction {0} est maintenant hostile!"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\TravelGroup.cs:300
 #, csharp-format
 msgid "We're done exploring the location (space left {0}kg)"
-msgstr "Nous avons fini d'explorer l'emplacement (espace libre {0}kg)"
+msgstr "Nous avons fini d'explorer le lieu (espace libre {0}kg)"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\TravelGroup.cs:304
 #, csharp-format
@@ -1076,7 +1076,7 @@ msgstr ""
 "Vous pouvez maintenant réparer et prendre le contrôle des centres de "
 "production!\n"
 "\n"
-"Des locations comme les fermes, les mines, les scieries, etc, peuvent être "
+"Des lieux comme les fermes, les mines, les scieries, etc, peuvent être "
 "réparées et utilisées comme centre de production. Pour ce faire, vous "
 "devrez d'abord y envoyer une expédition pour éliminer toute menace "
 "potentielle.\n"
@@ -1329,7 +1329,7 @@ msgstr ""
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\GameTips.cs:381
 msgid "Settlement Location"
-msgstr "Location Colonie"
+msgstr "Lieu de Colonie"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\GameTips.cs:383
 msgid ""
@@ -1656,7 +1656,7 @@ msgstr ""
 "Des marchands entrent dans votre colonie. \n"
 "\n"
 "Pour échanger avec eux, attendez que le véhicule s'arrête dans votre zone de "
-"commerce (qui doit se trouver dans une location accessible pour les "
+"commerce (qui doit se trouver dans une zone accessible pour les "
 "véhicules) et cliquez dessus.\n"
 "\n"
 "Notez que chaque commerçant a ses propres intérêts et gamme de prix. "
@@ -2024,7 +2024,7 @@ msgstr "{0} survivants envoyés chercher plus de munitions."
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Overlay.cs:2715
 #, csharp-format
 msgid "Items in {0} tiles have been marked for retrieval."
-msgstr "Le loot dans {0} locations a été marqué pour être récupéré."
+msgstr "Le loot dans {0} lieux a été marqué pour être récupéré."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Overlay.cs:2761
 #, csharp-format
@@ -3187,7 +3187,7 @@ msgid ""
 msgstr ""
 "{{GOLD}} Carte de la ville{{WHITE}}\n"
 "\n"
-"Ce bouton n'est pas convert pas le tutoriel mais il est utilisé pour "
+"Ce bouton n'est pas clicable dans le tutoriel mais il est utilisé pour "
 "consulter la carte de la ville. Avec certaines technologies, vous serez en "
 "mesure d'envoyer des expéditions afin de trouver du butin, des technologies "
 "perdues et de nouveaux survivants. Plus tard, vous serez même en mesure de "
@@ -5446,7 +5446,7 @@ msgstr "Centrer la caméra quand un événement spécial se produit"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\SettingsMenu.cs:282
 msgid "Center camera on location when a trader or a raid is incoming"
-msgstr "Centrer caméra quand un commerçant ou un raid arrive"
+msgstr "Centrer la caméra quand un commerçant ou un raid arrive"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\SettingsMenu.cs:289
 msgid "Reset game-speed to 1 when a raid occurs"
@@ -5863,9 +5863,10 @@ msgid ""
 "Anarkis Gaming Workshop rules. Anarkis Gaming reserves the right to remove "
 "any item at any time for any reason."
 msgstr ""
-"By clicking \"Upload\", you agree to the Steam Subscriber Agreement and "
-"Anarkis Gaming Workshop rules. Anarkis Gaming reserves the right to remove "
-"any item at any time for any reason."
+"En cliquant sur \"Télécharger\", vous acceptez le contrat d'abonnement Steam "
+"et les règles d'Anarkis Gaming Workshop.Anarkis Gaming se réserve le droit "
+"de supprimer tout élément à tout moment pour quelque raison que ce soit."
+.   
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadSaveScreen.cs:83
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:256
@@ -5917,7 +5918,7 @@ msgstr "Votre sauvegarde sera visible par tout le monde."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:60
 msgid "Upload Workshop Item"
-msgstr "Uploader vers le Workshop"
+msgstr "Envoyer vers le Workshop"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:74
 #, csharp-format
@@ -5926,16 +5927,16 @@ msgstr "Vous envoyez {0}, version {1} par {2}."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:78
 msgid "Select a Workshop item to update (if applicable)..."
-msgstr "Select a Workshop item to update (if applicable)..."
+msgstr "Sélectionnez un élément du Workshop à mettre à jour (le cas échéant)..."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:80
 msgid "Create a new Workshop item"
-msgstr "Create a new Workshop item"
+msgstr "Créer un nouvel élément Workshop"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:89
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:104
 msgid "Select at least one tag."
-msgstr "Select at least one tag."
+msgstr "Sélectionnez au moins un tag."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:120
 msgid "Done:"
@@ -5956,7 +5957,7 @@ msgstr "Terminé: "
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:157
 msgid "Could not load your preview image. Is it valid?"
-msgstr "Could not load your preview image. Is it valid?"
+msgstr "Impossible de charger l'image d'aperçu. Est-elle valide ?"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:172
 msgid ""
@@ -5964,13 +5965,13 @@ msgid ""
 "Workshop rules. Anarkis Gaming reserves the right to remove Workshop items "
 "at any time for any reason."
 msgstr ""
-"I accept the terms of the Steam Subscriber Agreement and the Anarkis Gaming "
-"Workshop rules. Anarkis Gaming reserves the right to remove Workshop items "
-"at any time for any reason."
+"J'accepte les termes du contrat d'abonnement Steam et les règles "
+"d'Anarkis Gaming Workshop. Anarkis Gaming se réserve le droit de supprimer des "
+"éléments du Workshop à tout moment pour quelque raison que ce soit."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:203
 msgid "Your Workshop item will be visible to the entire Steam Community."
-msgstr "Your Workshop item will be visible to the entire Steam Community."
+msgstr "Votre élément du Workshop sera visible par l'ensemble de la communauté Steam."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:214
 msgid "Your Workshop item will only be visible to your Steam friends."
@@ -5986,7 +5987,7 @@ msgstr "date de mise à jour"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\WorkshopModMenu.cs:34
 msgid "date subscribed"
-msgstr "date de subscription"
+msgstr "date d'abonnement"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\WorkshopModMenu.cs:35
 msgid "title"
@@ -6022,7 +6023,7 @@ msgid ""
 "Workshop error: could not subscribe to mod. The mod may be queued for "
 "download, or installed. Please restart the game."
 msgstr ""
-"Erreur Workshop: n'a pas pu s'abonner au mod. S'il vous plaît redémarrer le "
+"Erreur Workshop: N'a pas pu s'abonner au mod. S'il vous plaît redémarrer le "
 "jeu et réessayer, ou abonnez vous directement via Steam."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\WorkshopModMenu.cs:175
@@ -6030,7 +6031,7 @@ msgid ""
 "Workshop error: could not download mod on-demand. The download has likely "
 "started. Please wait for it to finish and restart your game."
 msgstr ""
-"Erreur Steam Workshop: n'a pas pu télécharger le mod. Le téléchargement a "
+"Erreur Steam Workshop: N'a pas pu télécharger le mod. Le téléchargement a "
 "probablement commencé. S'il vous plaît, attendez qu'il se termine et "
 "redémarrer votre jeu."
 
@@ -6039,7 +6040,7 @@ msgid ""
 "Workshop error: mod was not installed. The download has likely finished. "
 "Please restart the game."
 msgstr ""
-"Erreur workshop: le mod n'a pas été installé. Le téléchargement est "
+"Erreur workshop: Le mod n'a pas été installé. Le téléchargement est "
 "probablement terminé. Veuillez redémarrer le jeu."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\WorkshopModMenu.cs:191
@@ -6053,7 +6054,7 @@ msgstr "{0} sera disponible lorsque vous aurez redémarré le jeu."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\WorkshopModMenu.cs:227
 msgid "Workshop download failed"
-msgstr "Le téléchargement à échoué"
+msgstr "Le téléchargement à échoué."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\WorkshopModMenu.cs:241
 msgid "Mod unsubscribed!"
@@ -6092,7 +6093,7 @@ msgstr "Défenses"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\PoiScreen.cs:90
 msgid "Build Defenses"
-msgstr "Construire Défenses"
+msgstr "Construire des Défenses"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\PoiScreen.cs:92
 msgid ""
@@ -6124,12 +6125,12 @@ msgstr "Production/Jour"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\PoiScreen.cs:150
 msgid "Recall Survivors"
-msgstr "Rappel survivants"
+msgstr "Rappeler les survivants"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\PoiScreen.cs:152
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\FactionScreen.cs:388
 msgid "Abandon the location, bringing your people home"
-msgstr "Abandonnez l'endroit et ramenez vos survivants à la base"
+msgstr "Abandonner le lieu et ramener vos survivants à la base."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\PoiScreen.cs:162
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\FactionScreen.cs:398
@@ -6142,7 +6143,7 @@ msgid ""
 "The location has been abandoned and your survivors will head back home. They "
 "should arrive in 48 hours."
 msgstr ""
-"La location a été abandonné et vos survivants rentrent à votre base. Ils "
+"Le lieu a été abandonné et vos survivants rentrent à votre base. Ils "
 "devraient arriver dans 48 heures."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\PoiScreen.cs:174
@@ -6157,7 +6158,7 @@ msgid ""
 "If you confirm this order, the location will be abandoned and your workers "
 "will head back home."
 msgstr ""
-"Si vous confirmez cet ordre, la location sera abandonnée et vos travailleurs "
+"Si vous confirmez cet ordre, le lieu sera abandonné et vos travailleurs "
 "rentreront à la maison."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\PoiScreen.cs:180
@@ -6178,7 +6179,7 @@ msgid ""
 msgstr ""
 "Permet de faire une pause ou de reprendre la production de ce lieu. Utile "
 "lorsque vous avez déjà suffisamment de ressources dans votre base, mais ne "
-"voulez pas abandonner l'emplacement."
+"voulez pas abandonner le centre de production."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\PoiScreen.cs:222
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\FactionScreen.cs:438
@@ -6279,7 +6280,7 @@ msgstr "Afficher lieu"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\TravelGroupScreen.cs:253
 msgid "Switch to location screen"
-msgstr "Voir la location"
+msgstr "Voir le lieu"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\TravelGroupScreen.cs:262
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:204
@@ -7049,11 +7050,11 @@ msgstr "Elle devrait arriver dans {0} heures."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\DiploScreen.cs:576
 msgid "the caravan is already heading your way."
-msgstr "une caravane se dirige déjà vers chez vous."
+msgstr "La caravane se dirige déjà vers chez vous."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\DiploScreen.cs:585
 msgid "The caravan is already at your location, wait for it to depart."
-msgstr "Une caravane est déjà chez vous, attendez qu'elle parte."
+msgstr "La caravane est déjà chez vous, attendez qu'elle parte."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\DiploScreen.cs:596
 msgid ""
@@ -7065,16 +7066,16 @@ msgstr ""
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\DiploScreen.cs:601
 msgid "I want to buy prisoners"
-msgstr "Je veux acheter"
+msgstr "Je veux acheter."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\DiploScreen.cs:611
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\DiploScreen.cs:651
 msgid "A prisoner trader is traveling toward your settlement"
-msgstr "Un marchand de prisonniers se dirige vers votre colonie"
+msgstr "Un marchand de prisonniers se dirige vers votre colonie."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\DiploScreen.cs:640
 msgid "I want to sell prisoners"
-msgstr "Je veux vendre"
+msgstr "Je veux vendre."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\DoorScreen.cs:39
 msgid "Locked"
@@ -8816,7 +8817,7 @@ msgstr "Utilisé dans les recettes:"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\items\GameItem.cs:152
 msgid "Found in locations:"
-msgstr "Trouvé dans les endroits:"
+msgstr "Trouvé dans les lieux:"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\items\ItemAgent.cs:101
 msgid "Need to be grown:"
@@ -9159,7 +9160,7 @@ msgstr "Visité la tombe d'un ami"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\jobs\MoveBodyJob.cs:25
 msgid "a location"
-msgstr "un endroit"
+msgstr "un lieu"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\jobs\MoveBodyJob.cs:35
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\jobs\MoveBodyToPrison.cs:23
@@ -9918,7 +9919,7 @@ msgstr "Accés"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:415
 msgid "Show tiles survivors can't pass through"
-msgstr "Afficher les locations que les survivants ne peuvent accéder"
+msgstr "Afficher les endroit où les survivants ne peuvent pas accéder"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:416
 msgid "Health Info"
