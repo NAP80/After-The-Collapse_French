@@ -1277,11 +1277,11 @@ msgstr ""
 "Au fur et à mesure que vos survivants construisent, font des recherches et "
 "tuent des choses, ils acquièrent de l'expérience proportionnelle aux tâches. "
 "Après un certain temps, ils finissent par recevoir ce trait qui leur donne "
-"un petit coup de pouce à leurs attributs. Cependant, il est également plus "
+"un petit bonus à leurs attributs. Cependant, il est également plus "
 "difficile de les garder heureux. Ils demanderont une chambre individuelle "
-"par example. Plus la chambre est de qualité, plus ils seront heureux.\n"
+"par exemple. Plus la chambre est de qualité, plus ils seront heureux.\n"
 "\n"
-"Remarque : Les survivants essaieront automatiquement de réserver une chambre "
+"Remarque: Les survivants essaieront automatiquement de réserver une chambre "
 "individuelle, si il y en a de disponible, après avoir reçu le trait."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\GameTips.cs:345
@@ -1318,7 +1318,7 @@ msgid ""
 "Additionally, experienced survivors will request individual bedrooms. "
 "Without it, they'll suffer a massive morale hit."
 msgstr ""
-"Vous venez de construire les fondations d'une chambre individuelle! \n"
+"Vous venez de construire les fondations d'une chambre individuelle!\n"
 "\n"
 "Ces chambres à un seul lit peuvent être données à des survivants en "
 "utilisant le menu associé à cette zone. Ils fournissent un endroit pour "
@@ -1374,7 +1374,7 @@ msgstr ""
 "\n"
 "{{ORANGE}} IMPORTANT: \n"
 "\n"
-"{{GOLD}}Cliquez gauche{{WHITE}} une fois pour d\"finir l'un des coins. "
+"{{GOLD}}Cliquez gauche{{WHITE}} une fois pour définir l'un des coins. "
 "{{GOLD}}Cliquez gauche{{WHITE}} une deuxième fois pour placer le deuxième "
 "coin délimitant votre zone. Vous pouvez revenir en arrière d'une étape avec "
 "un {{GOLD}}clic droit{{WHITE}}.\n"
@@ -2279,7 +2279,7 @@ msgstr "Change Aptitudes:"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\TooltipGenerator.cs:390
 msgid "Suppressed Behaviors:"
-msgstr "Comportements supprimés :"
+msgstr "Comportements supprimés:"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\TooltipGenerator.cs:398
 msgid "Behavior Changes:"
@@ -2667,7 +2667,7 @@ msgstr ""
 "vide (vous devrez peut-être raser quelques arbres et roches). Une fois "
 "placée, sélectionnez les cultures de pommes de terre.\n"
 "\n"
-"{{GOLD}} Objectif : Construire une ferme de pommes de terre."
+"{{GOLD}} Objectif: Construire une ferme de pommes de terre."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Tutorial.cs:284
 msgid "{{GOLD}}Goal:{{WHITE}} Build a potato farm."
@@ -2685,7 +2685,7 @@ msgstr ""
 "Utilitaire{{WHITE}}, puis sélectionnez un {{GREEN}}collecteur de "
 "pluie{{WHITE}}, puis construisez 2 d'entre eux à l'extérieur de la maison.\n"
 "\n"
-"{{GOLD}} Objectif : Construire 2 collecteurs d'eau."
+"{{GOLD}} Objectif: Construire 2 collecteurs d'eau."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Tutorial.cs:323
 msgid "{{GOLD}}Goal:{{WHITE}} Build two Rain collectors."
@@ -5189,7 +5189,7 @@ msgid ""
 "The boost applied by the 'Better Founding Settlers' setting is not visible "
 "in this summary."
 msgstr ""
-"Le coup de pouce appliqué par le trait \"Meilleur Survivants\" n'est pas "
+"Le bonus appliqué par le trait \"Meilleur Survivants\" n'est pas "
 "visible dans ce résumé."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\ScenarioScreen.cs:880
@@ -5658,7 +5658,7 @@ msgstr ""
 "contenus (ce qui est toujours nécessaire), et les fichiers PNG seront "
 "toujours préférés par le moteur lors du chargement.\n"
 "\n"
-"Remarque : si vous publiez un mod, il est recommandé (mais pas nécessaire) "
+"Remarque: Si vous publiez un mod, il est recommandé (mais pas nécessaire) "
 "d'emballer tous les PNG dans des XNB avant la distribution à des fins "
 "d'optimisation."
 
@@ -5681,15 +5681,15 @@ msgid ""
 "- Windowed: It will display the game in a standard window. Generally a bit "
 "slower."
 msgstr ""
-"- Plein écran : affichage plein écran standard. Meilleur si vous souhaitez "
-"utiliser une résolution personnalisée et redimensionner l'interface "
-"utilisateur\n"
+"- Plein écran: Affichage plein écran standard."
+"Meilleur si vous souhaitez utiliser une résolution "
+"personnalisée et redimensionner l'interface utilisateur\n"
 "\n"
 "- Borderless: Jeu verrouillé à votre résolution de bureau. Mode le plus "
 "compatible. Plus facile d'Alt-Tab aussi.\n"
 "\n"
-"- Fenêtre: Il affichera le jeu dans une fenêtre standard. Généralement un "
-"peu plus lent."
+"- Fenêtre: Il affichera le jeu dans une fenêtre standard."
+"Généralement un peu plus lent."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\SettingsMenu.cs:616
 msgid "Game Resolution:"
@@ -6039,7 +6039,7 @@ msgid ""
 "Workshop error: mod was not installed. The download has likely finished. "
 "Please restart the game."
 msgstr ""
-"Erreur workshop : le mod n'a pas été installé. Le téléchargement est "
+"Erreur workshop: le mod n'a pas été installé. Le téléchargement est "
 "probablement terminé. Veuillez redémarrer le jeu."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\WorkshopModMenu.cs:191
@@ -6518,7 +6518,7 @@ msgstr "Production/Jour:"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\TravelGroupScreen.cs:872
 #, csharp-format
 msgid "Required Workers: {0}"
-msgstr "Travailleurs requis : {0}"
+msgstr "Travailleurs requis: {0}"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MapMenus\TravelGroupScreen.cs:883
 msgid "Assign Workers"
@@ -7333,7 +7333,7 @@ msgid ""
 "at, hauling, mining, forging and disassembling."
 msgstr ""
 "Si activé, les colons qui ne sont admissibles à aucun emploi recevront une "
-"sélection par défaut contenant : le travail pour lequel ils sont les "
+"sélection par défaut contenant: le travail pour lequel ils sont les "
 "meilleurs, le transport, forge, et le recyclage."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\Menus\FactionScreen.cs:671
@@ -8808,7 +8808,7 @@ msgstr "Utilisé pour construire:"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\items\GameItem.cs:108
 msgid "Used to construct:"
-msgstr "Utilisé pour construire :"
+msgstr "Utilisé pour construire:"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\items\GameItem.cs:130
 msgid "Used in recipes:"
@@ -9031,7 +9031,7 @@ msgstr "Je construis un(e) {0} à {1}."
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\jobs\BuildJob.cs:200
 #, csharp-format
 msgid "Construction Finished: {0} at {1}"
-msgstr "Construction terminée : {0} à {1}"
+msgstr "Construction terminée: {0} à {1}"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\jobs\ButcherJob.cs:28
 msgid "I am butchering."
@@ -10026,7 +10026,7 @@ msgid ""
 "- Bury dead bodies\n"
 "- Feed prisoners"
 msgstr ""
-"Les survivants avec cette compétence peuvent :\n"
+"Les survivants avec cette compétence peuvent:\n"
 "- Stocker les objets\n"
 "- Enterrer les cadavres\n"
 "- Nourrir les prisonniers"
@@ -10949,7 +10949,7 @@ msgstr "Echec !"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\ExpeditionHelper.cs:363
 #, fuzzy, csharp-format
 msgid " [Success Chance: {0}]"
-msgstr " [Chance de succès : {0}]"
+msgstr " [Chance de succès: {0}]"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\ExpeditionHelper.cs:367
 #, csharp-format
@@ -11256,7 +11256,7 @@ msgstr "Factions IA: Taux de renforcement"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenario.cs:677
 msgid "AI Factions: Aggression"
-msgstr "Factions IA : Agression"
+msgstr "Factions IA: Agression"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenario.cs:711
 msgid "Established Factions"
@@ -11319,7 +11319,7 @@ msgstr "Équipement de départ"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenario.cs:881
 #, csharp-format
 msgid "Customizable: {0} points"
-msgstr "Personnalisable : {0} points"
+msgstr "Personnalisable: {0} points"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenario.cs:885
 msgid "Known Technologies"
@@ -11768,19 +11768,19 @@ msgstr "Cycle entre les différentes filtres"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:762
 msgid "{{GOLD}}Map Filter:{{DEFAULT}} Hostility"
-msgstr "{{GOLD}}Filtre Carte :{{DEFAULT}} Hostilité"
+msgstr "{{GOLD}}Filtre Carte:{{DEFAULT}} Hostilité"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:766
 msgid "{{GOLD}}Map Filter:{{DEFAULT}} None"
-msgstr "{{GOLD}}Filtre Carte :{{DEFAULT}} Aucun"
+msgstr "{{GOLD}}Filtre Carte:{{DEFAULT}} Aucun"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:770
 msgid "{{GOLD}}Map Filter:{{DEFAULT}} Loot"
-msgstr "{{GOLD}}Filtre Carte :{{DEFAULT}} Butin"
+msgstr "{{GOLD}}Filtre Carte:{{DEFAULT}} Butin"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:774
 msgid "{{GOLD}}Map Filter:{{DEFAULT}} Faction"
-msgstr "{{GOLD}}Filtre Carte :{{DEFAULT}} Faction"
+msgstr "{{GOLD}}Filtre Carte:{{DEFAULT}} Faction"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:787
 msgid "Highlight Bunkers"
