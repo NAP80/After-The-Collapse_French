@@ -451,7 +451,7 @@ msgstr "Integrité"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\ClutterData.cs:599
 msgid "Block Path"
-msgstr "Bloque Pathing"
+msgstr "Chemin Bloqué"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\ClutterData.cs:600
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\ClutterData.cs:618
@@ -575,8 +575,7 @@ msgstr "Nous avons atteint notre destination!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\TravelGroup.cs:269
 msgid "Your expedition has been defeated during the attack. No one survived."
-msgstr ""
-"Votre expédition a été vaincue pendant l'attaque. Personne n'a survécu."
+msgstr "Votre expédition a été vaincue pendant l'attaque. Personne n'a survécu."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\agents\TravelGroup.cs:270
 msgid "Defeat"
@@ -5649,7 +5648,7 @@ msgstr ""
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\SettingsMenu.cs:459
 #, csharp-format
 msgid "Resource Panel Item Count: {0}"
-msgstr "Eléments dans panneau de ressources: {0}"
+msgstr "Eléments dans le panneau de ressources: {0}"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\SettingsMenu.cs:453
 msgid ""
@@ -5811,14 +5810,14 @@ msgid ""
 "- Windowed: It will display the game in a standard window. Generally a bit "
 "slower."
 msgstr ""
-"- Plein écran: Affichage plein écran standard.Meilleur si vous souhaitez "
+"- Plein écran: Affichage plein écran standard. Meilleur si vous souhaitez "
 "utiliser une résolution personnalisée et redimensionner l'interface "
 "utilisateur\n"
 "\n"
 "- Borderless: Jeu verrouillé à votre résolution de bureau. Mode le plus "
 "compatible. Plus facile d'Alt-Tab aussi.\n"
 "\n"
-"- Fenêtre: Il affichera le jeu dans une fenêtre standard.Généralement un peu "
+"- Fenêtre: Il affichera le jeu dans une fenêtre standard. Généralement un peu "
 "plus lent."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\SettingsMenu.cs:626
@@ -6056,8 +6055,7 @@ msgstr "Vous envoyez {0}, version {1} par {2}."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:78
 msgid "Select a Workshop item to update (if applicable)..."
-msgstr ""
-"Sélectionnez un élément du Workshop à mettre à jour (le cas échéant)..."
+msgstr "Sélectionnez un élément du Workshop à mettre à jour (le cas échéant)..."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:80
 msgid "Create a new Workshop item"
@@ -6101,8 +6099,7 @@ msgstr ""
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:203
 msgid "Your Workshop item will be visible to the entire Steam Community."
-msgstr ""
-"Votre élément du Workshop sera visible par l'ensemble de la communauté Steam."
+msgstr "Votre élément du Workshop sera visible par l'ensemble de la communauté Steam."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\gameUI\MainMenus\UploadWorkshopItem.cs:214
 msgid "Your Workshop item will only be visible to your Steam friends."
@@ -9637,7 +9634,7 @@ msgstr "Vieu"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:226
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:382
 msgid "Loot"
-msgstr "Loot"
+msgstr "Butin"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:235
 msgid "Alcohol"
@@ -9739,11 +9736,11 @@ msgstr "Test de furtivité"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:277
 msgid "Testing Skill"
-msgstr "Test de Skill"
+msgstr "Test de compétance"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:278
 msgid "Testing Stat"
-msgstr "Test de Stat"
+msgstr "Test de Statistique"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:279
 msgid "Testing Lack of Tech"
@@ -9751,7 +9748,7 @@ msgstr "Tester absence tech"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:280
 msgid "Testing Tech"
-msgstr "Test technologie"
+msgstr "Tester technologie"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:288
 msgid "Any"
@@ -11119,7 +11116,7 @@ msgstr "Village"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:774
 msgid "Expedition Map"
-msgstr "Carte de l’expédition"
+msgstr "Carte d'expédition"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Enums.cs:782
 msgid "Caverns"
@@ -11184,7 +11181,7 @@ msgstr "Vous n'avez pas les {0}$ nécessaires"
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\ExpeditionHelper.cs:486
 #, csharp-format
 msgid "Testing Skill: {0}"
-msgstr "Test de Skill: {0}"
+msgstr "Test de compétance: {0}"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\ExpeditionHelper.cs:486
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\ExpeditionHelper.cs:490
@@ -11689,8 +11686,7 @@ msgstr "Donnez-nous ce qui suit ou subissez les conséquences!"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:208
 msgid "We have no interest in making peace with you"
-msgstr ""
-"Nous n'avons pas l'intention de faire la paix avec vous pour l'instant."
+msgstr "Nous n'avons pas l'intention de faire la paix avec vous pour l'instant."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\SRLFaction.cs:209
 msgid "We are willing to pay a ransom for the people you captured."
@@ -11978,7 +11974,7 @@ msgstr "Vous pouvez sélectionner un nouveau monde en cliquant sur ce bouton."
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:825
 msgid "Seed"
-msgstr "Seed"
+msgstr "Graine de Génération"
 
 #: H:\SourceCode\AfterTheCollapse\StalkerRL\world\Scenes\WorldScene.cs:839
 msgid ""
